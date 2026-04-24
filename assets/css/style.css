@@ -369,6 +369,7 @@ body { background: var(--white); }
   background-size: cover;
   background-position: center;
   background-blend-mode: overlay;
+  background-color: hsla(0, 0%, 0%, 0.7);
   display: grid;
   place-items: center;
   min-height: 600px;
